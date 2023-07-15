@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BarraDeVida
+comment0.text=\r\n\ Esta\ es\ la\ barra\ de\ vida\r\n\ \r\n\ Hay\ que\ pensar\ si\ quitar\ la\ barra\ de\ vida,\ para\ dejar\ el\ UI\ mas\ depurado,\r\n\ y\ mas\ bien\ que\ sea\ a\ partir\ de\ los\ sonidos\ que\ se\ sepa\ lo\ de\ la\ vida\r\n\ \r\n\ Ya\ se\ arreglo\ el\ problema\ de\ que\ sea\ la\ barra\ de\ vida,\ la\ cual\ determine\ la\ vida,\ ahora\ es\ la\ clase\ personaje\ el\ que\ lo\ hace\r\n\ \r\n\ Youtuber\ Promedio\r\n\ 23/09/2022\r\n
+comment1.params=
+comment1.target=BarraDeVida()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ actualizar()
+comment5.params=
+comment5.target=void\ pierdes()
+numComments=6

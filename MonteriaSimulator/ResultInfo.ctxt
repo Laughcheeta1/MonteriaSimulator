@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ResultInfo
+comment0.text=\r\n\ This\ is\ for\ storing\ efectively\ the\ results\ of\ games\r\n\ \r\n\ @Santiago\ Yepes\ Mesa\r\n\ @14/7/2023\r\n
+comment1.params=userName\ character\ points\ time
+comment1.target=ResultInfo(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ResultInfo\r\n
+comment2.params=
+comment2.target=java.lang.String\ getUsername()
+comment3.params=
+comment3.target=java.lang.String\ getCharacter()
+comment4.params=
+comment4.target=int\ getPoints()
+comment5.params=
+comment5.target=java.lang.String\ getTime()
+comment6.params=r1
+comment6.target=int\ compareTo(ResultInfo)
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Policia
+comment0.text=\r\n\ Este\ es\ el\ personaje\ policia\r\n\ \r\n\ @Santiago\ Yepes\ Mesa\ \r\n\ @17/09/2022\r\n
+comment1.params=
+comment1.target=Policia()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ Attack()
+numComments=5

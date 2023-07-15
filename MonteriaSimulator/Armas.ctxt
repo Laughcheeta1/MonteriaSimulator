@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Armas
+comment0.text=\r\n\ Esta\ es\ la\ clase\ padre\ de\ todas\ la\ armas\r\n\ \r\n\ @Santiago\ Yepes\r\n\ @19/9/20022\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getDano()
+numComments=3

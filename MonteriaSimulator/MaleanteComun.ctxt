@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MaleanteComun
+comment0.text=\r\n\ Este\ es\ el\ enemigo\ mas\ simple\ de\ todos,\ un\ maleante\ comun\r\n\ \r\n\ @Santiago\ Yepes\ Mesa\r\n\ @17/09/2022\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moverse()
+numComments=4

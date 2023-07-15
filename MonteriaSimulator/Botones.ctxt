@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Botones
+comment0.text=\r\n\ La\ superclase\ de\ los\ botones,\ se\ encarga\ del\ funcionamiento\ de\ los\ botones\r\n\ a\ grandes\ rasgos.\r\n\ \r\n\ @ManEnYotube\r\n\ @\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkMouse()
+comment3.params=world
+comment3.target=void\ checkClick(greenfoot.World)
+comment4.params=adjust
+comment4.target=void\ adjTrans(int)
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Temporizador
+comment0.text=\r\n\ Esta\ clase\ es\ la\ que\ muestra\ cuanto\ tiempo\ a\ transcurrido\ tras\ el\ inicio\ del\r\n\ juego\r\n\ \r\n\ (No\ funciona\ por\ ahora)\r\n\ \r\n\ @Santiago\ Yepes\ Mesa\r\n\ @28/09/2022\r\n
+comment1.params=
+comment1.target=Temporizador()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=java.lang.String\ mostrarTiempo()
+comment5.params=
+comment5.target=long\ getTiempo()
+comment6.params=
+comment6.target=SimpleTimer\ getTimer()
+comment7.params=
+comment7.target=void\ timerStop()
+comment8.params=color
+comment8.target=void\ setColor(greenfoot.Color)
+comment9.params=
+comment9.target=java.lang.String\ getTiempoString()
+numComments=10

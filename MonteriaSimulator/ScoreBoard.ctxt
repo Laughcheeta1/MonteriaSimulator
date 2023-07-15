@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\r\n\ @Santiago\ Yepes\r\n\ solo\ falta\ hacer\ que\ aparezca\ la\ tabla\r\n
+comment1.params=
+comment1.target=ScoreBoard()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ generarTabla()
+comment4.params=
+comment4.target=void\ leerFichero()
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Obrero
+comment0.text=\r\n\ Personaje\ de\ Obrero.\r\n\ \r\n\ @author\ (Santiago\ Yepes)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Obrero()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ Attack()
+numComments=4
